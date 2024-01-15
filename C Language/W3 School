@@ -46,3 +46,34 @@ C Output-
           escape sequences("\n","\t","\\","\"").
 
 C Comments-
+            It can be used to explain code
+            It make code more readable.
+            It can also be used to prevent execution when testing alternative code.
+            type -- singled-lined(//) or multi-lined(/**/).
+
+C Variables-
+             Create Variable =
+             Variables are containers for storing data values.
+             like--
+                  int - stores integers (whole numbers), without decimals, such as 123 or -123
+                  float - stores floating point numbers, with decimals, such as 19.99 or -19.99
+                  char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
+             Declaring (Creating) Variables-
+                 Syntax-- type variableName = value;  ,Example.
+
+            Format Specifiers=
+            format specifiers surrounded by double quotes (""), inside the printf() function,(like-%d).
+            use to tell the compiler what type of data variable is storing. It is basically a placeholder for the variable value. 
+            %d(int),  %c(char), %f(float).
+
+           Change Values =
+           assigning a new value to an existing variable, it will overwrite the previous value(Example).
+           Add Variables Together.
+
+           Multiple Variables =
+            
+
+
+
+
+
