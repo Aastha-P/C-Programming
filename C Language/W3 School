@@ -24,4 +24,25 @@ C Get Started-
                                    A compiler, like GCC (to translate the C code into a language that the computer will understand).
 
 C Syntax- 
-          Syntax
+          Syntax =
+          Example[#include <stdio.h> --header file library(always appears in your program),Header files add functionality to C programs.
+                  blank line --C compiler ignores white space. But we use it to make the code more readable.
+                  main() --It is a function(always appear in a C program), Any code inside its curly brackets {} will be executed.
+                  printf()-- is a function used to output/print text to the screen.
+                  ;(semicolon)-- Every C statement ends with a ;
+          The body of int main() could also been written as:
+                      int main(){printf("Hello World!");return 0;}
+
+          Statements =
+          A computer program is a list of "instructions" to be "executed" by a computer,these programming instructions are called "statements".
+          Many Statements(Example).
+
+C Output-
+          Print Text =
+          Exapmle, Double Quotes, Many printf Functions.
+
+          New Lines =
+          \n(newline character)-- It forces the cursor to change its position to the beginning of the next line on the screen.
+          escape sequences("\n","\t","\\","\"").
+
+C Comments-
