@@ -1,1 +1,27 @@
-C Programming
+C Programming----
+
+Intro-
+       What is C? =
+       very popular language.
+       general-purpose programming language.
+       created by Dennis Ritchie at the Bell Laboratories in 1972.
+       fundamental language in the field of computer science.
+       C is strongly associated with UNIX, as it was developed to write the UNIX operating system.
+
+       Why Learn C? =
+       most popular programming language in the world.
+       as the syntax is similar to other languages.
+       very fast, compared to other programming languages, like Java and Python.
+       C is very versatile(used in both applications and technologies).
+
+       Difference between C and C++ =
+       C++ was developed as an extension of C (both languages have almost the same syntax).
+       C++ support classes and objects, while C does not.
+
+C Get Started-
+              Get Started With C =
+               you need two things:A text editor, like Notepad.
+                                   A compiler, like GCC (to translate the C code into a language that the computer will understand).
+
+C Syntax- 
+          Syntax
